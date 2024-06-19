@@ -1,4 +1,4 @@
-This project is a simple interactive command-line application that demonstrates the use of Object-Oriented Programming (OOP) principles in TypeScript. The program allows the user to interact with a Person and dynamically manage a list of Student objects.
+This project is a simple interactive command-line application that demonstrates the use of Object-Oriented Programming (OOP) principles in TypeScript. The program allows the user to interact with a Person and dynamically manage a list of Student object.
 
 ## Features
 
